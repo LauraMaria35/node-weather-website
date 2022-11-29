@@ -1,0 +1,19 @@
+body{
+    background-image: url(neuronCells.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@media (max-width:600px) {
+  body{
+    background-image: url(bengal-tiger-in-the-dark_3828530.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+}}
+
+.par{
+  color: white;
+  font-size: 24px;
+  opacity: 1;
+}
+
